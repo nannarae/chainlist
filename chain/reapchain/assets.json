@@ -1,0 +1,15 @@
+[
+  {
+    "denom": "areap",
+    "type": "staking",
+    "origin_chain": "reapchain",
+    "origin_denom": "areap",
+    "origin_type": "staking",
+    "symbol": "REAP",
+    "decimals": 18,
+    "description": "Reapchain Staking Coin",
+    "image": "reapchain/asset/reapchain.png",
+    "coinGeckoId": "reapchain",
+    "color": "#66C4F0"
+  }
+]

@@ -1,0 +1,41 @@
+{
+  "chain_name": "Reapchain",
+  "fee": {
+    "base": "1",
+    "rate": ["120000000areap", "125000000areap", "130000000areap"],
+    "init_gas_limit": 300000,
+    "isSimulable": true,
+    "simul_gas_multiply": 1.2,
+    "fee_threshold": ""
+  },
+  "grpc_endpoint": [
+    {
+      "provider": "Reapchain",
+      "url": "https://rpc.reapchain.org:443"
+    }
+  ],
+  "evm_rpc_endpoint": [
+    {
+      "provider": "Reapchain",
+      "url": "https://eth.reapchain.org:443"
+    }
+  ],
+  "about": {
+    "website": "https://reapchain.com",
+    "docs": "https://reapchain.gitbook.io",
+    "github": "https://github.com/reapchain",
+    "blog": "https://blog.naver.com/reapchain",
+    "medium": "https://medium.com/reapchain",
+    "twitter": "https://twitter.com/ReapChain",
+    "coingecko": "https://www.coingecko.com/en/coins/reapchain"
+  },
+  "forum": {
+    "main": "https://t.me/ReapchianOfficial",
+    "governance": "https://dashboard.reapchain.org/gov"
+  },
+  "description": {
+    "ko": "퍼블릭 블록체인과 프라이빗 블록체인을 결합한 쉘-코어 구조와 양방향 합의 알고리즘을 기반으로 한 블록체인",
+    "en": "A blockchain based on a core-core structure combining a public blockchain and an inverse blockchain and the opposite direction.",
+    "ja": "パブリックブロックチェーンと反対のブロックチェーンを組み合わせたコアコア構造と反対方向に基づくブロックチェーン。"
+  }
+}

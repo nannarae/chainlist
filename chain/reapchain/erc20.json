@@ -1,0 +1,13 @@
+[
+  {
+    "chainId": 221230,
+    "chainName": "reapchain",
+    "address": "0x1fc5EF0337AEA85C5f9198853a6E3A579a7A6987",
+    "symbol": "REAP",
+    "description": "Reapchain Token",
+    "decimals": 18,
+    "image": "reapchain/asset/reapchain.png",
+    "default": true,
+    "coinGeckoId": "reapchain"
+  }
+]
